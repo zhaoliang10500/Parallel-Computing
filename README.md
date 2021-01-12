@@ -1,15 +1,15 @@
 # ECSE420 Parallel-Computing
 
-Parallel Computing coursework at McGill University. Parallelization is implemented by GPUs using CUDA. Code is written either in C or Python (using the Numba package to interface with CUDA).
+Parallel Computing coursework at McGill University. Parallelization is implemented by GPUs using CUDA. Code is written either in C (using the Numba package to interface with CUDA).
 
-## Lab 1 - Introduction
-Learning the basics of CUDA via parallel implementations of image rectification and max-pooling.
+## Lab 0 - Image processing
+Image processing by Rectification and Max Pooling
 
-## Lab 2 - Array Manipulation
-Parallel implementations of convolution and multiplication.
+## Lab 1 - Logic gate simulation
 
-## Lab 3 - Finite Element Grid
-Parallelized simulation of the surface of a drum, using a grid of finite elements.
+## Lab 2 - Signal processing and for a musical instrument simulation
 
-## Project - Parallel Merge Sort
-Parallel implementation of the merge sort. Measurement of speedup over standard recursive implementation for various parallelization parameters and input sizes.
+## Lab 3 - Breadth-First Search (BFS)
+
+## Project - Quantum Fourier Transform
+We implemented the Quantum Fourier Transform and analyzied its running time and and verified its correctness
